@@ -52,3 +52,10 @@ css vorágine
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 }
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgb(0 63 126 / 75%) !important;
+}
+
+
