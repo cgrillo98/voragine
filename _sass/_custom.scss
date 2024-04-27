@@ -2,3 +2,41 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+
+css vorágine
+.col-md-8 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+#home-banner {
+    background-image: url('/voragine/objects/demo_001.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 10%;
+}
+
+.h5,  h5 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 100px!important;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    font-size: 40px!important;
+}
+
+#imageCarousel .carousel-item {
+    width: 100%;
+}
