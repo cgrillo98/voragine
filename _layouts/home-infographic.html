@@ -2,13 +2,12 @@
 # Default home page with boxes providing collection stats
 layout: page
 ---
- {% include index/carousel.html title="Sample Items" height="300" %}
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.objectid != nil' -%}
 <div class="row">
   <div class="col-md-8">
 
    {% include index/description.html %}
-
+   {% include index/carousel.html title="Sample Items" height="300" %}
   
   </div>
   <div class="col-md-4">  
