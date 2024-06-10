@@ -48,6 +48,11 @@
     margin-top: 2px;
 }
 
+.card-img, .card-img-top {
+     border-top-left-radius: 0!important;
+    border-top-right-radius: 0!important;
+}
+
 .bg-dark {
     --bs-bg-opacity: 1;
     background-color: rgba(0,63,126,75) !important;
