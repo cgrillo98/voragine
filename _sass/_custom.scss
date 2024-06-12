@@ -24,7 +24,17 @@
     padding: 10px;
 }
 
-
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff0;
+    background-clip: border-box;
+    border: 2px solid rgb(39 189 169);
+    border-radius: 0rem;
+}
 
 /* experimento 1
 
