@@ -37,6 +37,13 @@
 }
 
 
+
+.card-img, .card-img-top {
+    border-top-left-radius: 0rem!important;
+    border-top-right-radius: 0rem!important;
+}
+
+
 hr {
     margin: 1rem 0;
     color: blue;
