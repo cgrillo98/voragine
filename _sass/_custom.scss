@@ -20,11 +20,11 @@
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: rgb(0 0 0);
+    color: rgb(0 0 0)!important;
 }
 
 .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link {
-    color: blue;
+    color: blue!important;
 }
 
 .col-12 {
