@@ -19,6 +19,14 @@
     border: 2px solid rgb(39, 189, 169);
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(0 0 0);
+}
+
+a.nav-link.active{
+    color:blue;
+}
+
 .col-12 {
     border-top: 5px solid black;
     margin-top: 100px;
