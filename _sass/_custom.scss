@@ -110,11 +110,11 @@ hr {
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
-    background-color: transparent;
+    background-color: gainsboro;
     border: 1px solid transparent;
     padding: .375rem .75rem;
     font-size: 1rem;
-    border-radius: 0rem!important;
+    border-radius: 0rem !important;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
