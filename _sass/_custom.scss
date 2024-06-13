@@ -23,8 +23,8 @@
     color: rgb(0 0 0);
 }
 
-a.nav-link.active{
-    color:blue;
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link {
+    color: blue;
 }
 
 .col-12 {
