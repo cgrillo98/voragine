@@ -42,7 +42,7 @@
 
 .card-img, .card-img-top {
     border-top-left-radius: 0rem!important;
-    border-top-right-radius: 0rem!important;
+    border-top-right-radius: 0.1rem!important;
 }
 
 
@@ -58,8 +58,8 @@ hr {
     flex-shrink: 0;
     width: 100%;
     max-width: 100%;
-    padding-right: calc(var(--bs-gutter-x) * .1)!important;
-    padding-left: calc(var(--bs-gutter-x) * .1)!important;
+    padding-right: calc(var(--bs-gutter-x) * .5)!important;
+    padding-left: calc(var(--bs-gutter-x) * .5)!important;
     margin-top: var(--bs-gutter-y);
 }
 
