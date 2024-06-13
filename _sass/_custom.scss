@@ -27,6 +27,26 @@
     color: blue!important;
 }
 
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+     border:none!important;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0rem !important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
 .col-12 {
     border-top: 5px solid black;
     margin-top: 100px;
