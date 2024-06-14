@@ -5,6 +5,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
 
+
+.row {
+    border: 3px solid #000000 !important;
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+
+
 .btn-success:hover {
     color: #fff;
     background-color: blue !important;
@@ -46,7 +59,7 @@
     background-color: #fff;
     background-clip: padding-box;
     border: 1px solid transparent!important;
-    border-top: 2px solid black !important;
+    border-bottom: 2px solid black !important;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
@@ -55,7 +68,6 @@
 }
 
 .col-12 {
-    border-top: 5px solid black;
     margin-top: 100px;
     flex: 0 0 auto;
     width: 50%;
