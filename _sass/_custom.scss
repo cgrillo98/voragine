@@ -53,9 +53,9 @@ body {
     -webkit-tap-highlight-color: transparent;
 
 background-color: #ffffff!important;
-background-image:  linear-gradient(#a4beb1 1.4000000000000001px, transparent 1.4000000000000001px), linear-gradient(90deg, #a4beb1 1.4000000000000001px, transparent 1.4000000000000001px), linear-gradient(#a4beb1 0.7000000000000001px, transparent 0.7000000000000001px), linear-gradient(90deg, #a4beb1 0.7000000000000001px, #ffffff 0.7000000000000001px);
-background-size: 35px 35px, 35px 35px, 7px 7px, 7px 7px;
-background-position: -1.4000000000000001px -1.4000000000000001px, -1.4000000000000001px -1.4000000000000001px, -0.7000000000000001px -0.7000000000000001px, -0.7000000000000001px -0.7000000000000001px;
+opacity: 1;
+background-image: radial-gradient(#a4beb1 1.1500000000000001px, #ffffff 1.1500000000000001px);
+background-size: 23px 23px;
     
 }
 
