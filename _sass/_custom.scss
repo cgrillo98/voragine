@@ -45,6 +45,11 @@ body {
     -webkit-tap-highlight-color: transparent;
 }
 
+.text-dark {
+    --bs-text-opacity: 1;
+    color: #21704b !important;
+}
+
 .btn-success:hover {
     color: #fff;
     background-color: blue !important;
