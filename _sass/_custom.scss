@@ -40,7 +40,7 @@
 }
 
 body {
-    background-color: #dfe8e6 !important;
+    background-color: #dfe8e6; 
     margin: 0;
     font-family: var(--bs-body-font-family);
     font-size: var(--bs-body-font-size);
@@ -51,6 +51,13 @@ body {
     background-color: var(--bs-body-bg);
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
+
+background-color: #ffffff!important;
+opacity: 0.4;
+background-image:  linear-gradient(#a4beb1 1.4000000000000001px, transparent 1.4000000000000001px), linear-gradient(90deg, #a4beb1 1.4000000000000001px, transparent 1.4000000000000001px), linear-gradient(#a4beb1 0.7000000000000001px, transparent 0.7000000000000001px), linear-gradient(90deg, #a4beb1 0.7000000000000001px, #ffffff 0.7000000000000001px);
+background-size: 35px 35px, 35px 35px, 7px 7px, 7px 7px;
+background-position: -1.4000000000000001px -1.4000000000000001px, -1.4000000000000001px -1.4000000000000001px, -0.7000000000000001px -0.7000000000000001px, -0.7000000000000001px -0.7000000000000001px;
+    
 }
 
 .text-dark {
