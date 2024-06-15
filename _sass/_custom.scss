@@ -112,7 +112,7 @@ background-size: 23px 23px;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    border-radius: 20rem !important;
+    border-radius: 15rem !important;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
@@ -183,20 +183,20 @@ hr {
     border: 1px solid transparent;
     padding: .375rem .75rem;
     font-size: 1rem;
-    border-radius: 20rem !important;
+    border-radius: 15rem !important;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
 .input-group-lg>.btn, .input-group-lg>.form-control, .input-group-lg>.form-select, .input-group-lg>.input-group-text {
     padding: .5rem 1rem;
     font-size: 1.25rem;
-    border-radius: 20rem !important;
+    border-radius: 15rem !important;
 }
 
 .nav-pills .nav-link {
     background: 0 0;
     border: 0;
-    border-radius: 20rem !important;
+    border-radius: 15rem !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
