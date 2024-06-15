@@ -12,7 +12,7 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/17964747"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-
+   {% include index/carousel.html title="Sample Items" height="300" %}
 
 We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
 
