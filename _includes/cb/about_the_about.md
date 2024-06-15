@@ -9,6 +9,8 @@
 
 ## About the About Page
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/17964747"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
 
 The template comes with a customizable "About" page layout designed for long form content with rich media embeds.
