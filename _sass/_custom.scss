@@ -218,7 +218,13 @@ hr {
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
+/* linea de tiempo*/
 
+    .col-lg-4 {
+    flex: 0 0 auto;
+    width: 15%;
+}
+    
 /* experimento 1
 
 .col-md-4 {
