@@ -44,7 +44,7 @@
 }
 
 body {
-    background-color: #dfe8e6; 
+    background-color: #ffffff;
     margin: 0;
     font-family: var(--bs-body-font-family);
     font-size: var(--bs-body-font-size);
@@ -55,12 +55,6 @@ body {
     background-color: var(--bs-body-bg);
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
-
-background-color: #ffffff!important;
-opacity: 1;
-background-image: radial-gradient(#bde0cf 1.1500000000000001px, #ffffff 1.1500000000000001px);
-background-size: 23px 23px;
-
     
 }
 
