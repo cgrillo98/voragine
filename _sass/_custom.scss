@@ -242,3 +242,13 @@ div.col-lg-1.col-md-6 {
 Padding: 0px !important;
 }
 
+
+
+// X-Small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { 
+
+    .h1,  h1 {
+    font-size:1.5rem!important;
+}
+
+}
