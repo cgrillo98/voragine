@@ -13,6 +13,7 @@
 
 {% include index/carousel.html title="Sample Items" height="300" %}
 
+#### Acordeón
  {% include accordion.html title1="Example section" text1=example1 title2="Section two" text2=example2 title3="Section three" text3=example3 %}
 
 We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
