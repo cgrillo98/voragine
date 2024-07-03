@@ -295,3 +295,10 @@ Padding: 0px !important;
     border: 1px solid #000000;
     border-radius: 0rem !important;
 }
+
+.input-group-lg>.btn, .input-group-lg>.form-control, .input-group-lg>.form-select, .input-group-lg>.input-group-text {
+    padding: .5rem 1rem;
+    font-size: 0.8rem;
+    border-radius: 15rem !important;
+    text-transform: uppercase;
+}
