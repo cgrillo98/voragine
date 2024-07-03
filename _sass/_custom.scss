@@ -268,3 +268,30 @@ Padding: 0px !important;
     margin-left: calc(0.5 * var(--bs-gutter-x));
     padding-top: calc(0.5 * var(--bs-gutter-x));
 }
+
+.navbar {
+    position: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    z-index: 200;
+    width: 100%;
+    background-color: #ffffff !important;
+    border: 1px solid #000000 !important;
+    color: #000 !important;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #000000;
+    border-radius: 0rem !important;
+}
