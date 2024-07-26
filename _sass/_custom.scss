@@ -9,12 +9,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Halant:wght@300;400;500;600;700&family=Lobster&family=Major+Mono+Display&family=Yeseva+One&display=swap');
 
 
-.h2,  h2 {
-    margin-top: 1rem!important;
-    margin-bottom: 1rem!important;
-    font-weight: light!important;
+.h2, h2 {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    font-weight: light !important;
     line-height: 0.5;
-    font-size:1.5rem!important;
+    font-size: 1.5rem !important;
+    color: #91b10f !important;
 }
 
 .h1,  h1 {
@@ -60,9 +61,8 @@ body {
 
 .text-dark {
     --bs-text-opacity: 1;
-    color: #2e2e2e !important;
+    color: #6a8400 !important;
 }
-
 .btn-success:hover {
     color: #fff;
     background-color: blue !important;
